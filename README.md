@@ -1,2 +1,2 @@
 # MontreAvecTheme
-Theme sombre et claire avec montre
+Theme sombre et claire sur un montre.
